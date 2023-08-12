@@ -1,6 +1,6 @@
 # UsePopcorn
 
-## Keep track of all your watch and favourite movies
+## Keep track of all your watched and favourite movies
 
 This is a **Client Side** react application for keepting track of all your watched and favourite movies. A beginner friendly project and prove to be a good one to start with, if you want to learn react and its basics. Uses a third party API to collect data of your searched movies.
 
