@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# UsePopcorn
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Keep track of all your watch and favourite movies
 
-## Available Scripts
+This is a **Client Side** react application for keepting track of all your watched and favourite movies. A beginner friendly project and prove to be a good one to start with, if you want to learn react and its basics. Uses a third party API to collect data of your searched movies.
 
-In the project directory, you can run:
+## Have a look
 
-### `npm start`
+follow this link: <a href="https://usepopcorn-azeem8271.netlify.app/">usePopcorn</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- You can search a movie, and can give a custom rating to it.
+- Once you give rating, then add to watched list option is enabled so you can add movies to your watched list.
+- Show all the watched movies, your average rating, average watchtime, movie cast, its description etc.
+- fully responsive design on all screen size
+- Mordern look and feel
 
-### `npm test`
+## What you will learn
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React basics, its hooks like useState, useEffect etc.
+- Event handeling in react
+- How to call a 3rd party API using useEffect
+- How to pass state from parent to child component using props
+- How to use Local Storage
+- How to define your own custom hooks
 
-### `npm run build`
+## Installation Guide
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+git clone https://github.com/azeem8271/use-pop-corn.git
+cd use-pop-corn
+npm install
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Find a bug ?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you find an issue or would like to add an improvement to this project, feel free to submit a issue using issue tab above and if you like to submit a PR with a fix, refrence the issue you created.
 
-### `npm run eject`
+## Known Issues / Bug
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+None till now ...
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Liked this project ?
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to tell me at:
+Email : <a  href="mailto:azeemkhan07082000@gmail.com">azeemkhan07082000@gmail.com</a>
